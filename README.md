@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CrykFury
-- 👀 I’m interested in FiveM FXServer, Java, HTML
-- 🌱 I’m currently learning HTML, Lua, FiveM Modding, Photoshop and Video Editing
-- 💞️ I’m looking to collaborate on FiveM Projects, Website Projects
+- 👀 I’m interested in Webdevelopment
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, PHP, etc.
+- 💞️ I’m looking to collaborate on Website Projects
 - 📫 How to reach me CrykFury#5661 (Discord)
 
 <!---
