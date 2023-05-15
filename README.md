@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CrykFury
-- 👀 I’m interested in Webdevelopment
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, PHP, etc.
-- 💞️ I’m looking to collaborate on Website Projects
+- 👀 I’m interested in Webdevelopment and Gamedevelopment.
+- 🌱 I’m currently learning JAVA, LUA, HTML, CSS, JavaScript, PHP, etc.
+- 💞️ I’m looking to collaborate on Website Projects and small Gameprojects (LUA).
 - 📫 How to reach me CrykFury#5661 (Discord)
 
 <!---
