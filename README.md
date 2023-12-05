@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrykFury
 - 👀 I’m interested in Webdevelopment and Gamedevelopment.
-- 🌱 I’m currently learning JAVA, LUA, Python, HTML, CSS, JavaScript, PHP, etc.
+- 🌱 I’m currently learning JAVA, Python and C.
 - 💞️ I’m looking to collaborate on Website Projects, Games, Mods for Minecraft, FiveM and similar projects!
 - 📫 How to reach me CrykFury#5661 (Discord)
 
